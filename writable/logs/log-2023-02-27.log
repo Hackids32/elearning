@@ -1,0 +1,66 @@
+CRITICAL - 2023-02-27 13:48:39 --> Too few arguments to function App\Controllers\Admin\Questions::edit(), 0 passed in /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php on line 936 and exactly 1 expected
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-02-27 13:49:40 --> Too few arguments to function App\Controllers\Admin\Questions::edit(), 0 passed in /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php on line 936 and exactly 1 expected
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-02-27 13:50:32 --> Too few arguments to function App\Controllers\Admin\Questions::edit(), 0 passed in /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php on line 936 and exactly 1 expected
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-02-27 14:28:34 --> Unable to save the image. Please make sure the image and file directory are writable.
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Images/Handlers/GDHandler.php(296): CodeIgniter\Images\Exceptions\ImageException::forSaveFailed()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(204): CodeIgniter\Images\Handlers\GDHandler->save()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-27 14:29:07 --> Unable to save the image. Please make sure the image and file directory are writable.
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Images/Handlers/GDHandler.php(296): CodeIgniter\Images\Exceptions\ImageException::forSaveFailed()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(204): CodeIgniter\Images\Handlers\GDHandler->save()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-27 14:30:36 --> Unable to save the image. Please make sure the image and file directory are writable.
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Images/Handlers/GDHandler.php(296): CodeIgniter\Images\Exceptions\ImageException::forSaveFailed()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(204): CodeIgniter\Images\Handlers\GDHandler->save()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-27 14:30:43 --> Unable to save the image. Please make sure the image and file directory are writable.
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Images/Handlers/GDHandler.php(296): CodeIgniter\Images\Exceptions\ImageException::forSaveFailed()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(204): CodeIgniter\Images\Handlers\GDHandler->save()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-27 14:31:54 --> Unable to save the image. Please make sure the image and file directory are writable.
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Images/Handlers/GDHandler.php(296): CodeIgniter\Images\Exceptions\ImageException::forSaveFailed()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(204): CodeIgniter\Images\Handlers\GDHandler->save()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-27 15:37:00 --> Unable to save the image. Please make sure the image and file directory are writable.
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Images/Handlers/GDHandler.php(296): CodeIgniter\Images\Exceptions\ImageException::forSaveFailed()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(204): CodeIgniter\Images\Handlers\GDHandler->save()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->edit()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 {main}

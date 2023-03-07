@@ -1,0 +1,14 @@
+CRITICAL - 2023-02-22 14:12:02 --> Invalid file: admin/questions/index.php
+#0 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/View/View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Common.php(1217): CodeIgniter\View\View->render()
+#2 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Views/admin/layout/content.php(4): view()
+#3 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Views/admin/layout/wrapper.php(11): require_once('/var/www/vhosts...')
+#4 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/View/View.php(220): include('/var/www/vhosts...')
+#5 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/View/View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/Common.php(1217): CodeIgniter\View\View->render()
+#7 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/app/Controllers/Admin/Questions.php(27): view()
+#8 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(936): App\Controllers\Admin\Questions->index()
+#9 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/vhosts/localhost/html/compro-ci4-javawebmedia/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#12 {main}
